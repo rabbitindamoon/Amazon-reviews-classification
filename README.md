@@ -3,4 +3,4 @@ Classifying good and bad amazon reviews using natural language processing, break
 
 Report available as pdf file.
 
-Data taken from Kaggle, unable to find original data in kaggle to cite it correctly and to give access to it. 
+Data taken from Kaggle, unable to find original data to cite it correctly and to give access to it. 
